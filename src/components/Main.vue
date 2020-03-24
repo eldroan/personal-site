@@ -107,6 +107,7 @@ h2 {
   animation-direction: alternate;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
+  background-color:  rgba(255, 255, 255, 0.05);
 }
 .image-container {
   background-color: transparent;
