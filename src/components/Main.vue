@@ -9,7 +9,7 @@
       <div class="column column-left">
         <div class="image-container">
           <div class="background" visible="is-hidden-mobile">
-            <img alt="My profile picture" src="../assets/profile.jpg" class="image" />
+            <img alt="My profile picture" src="../assets/profile.png" class="image" />
           </div>
         </div>
       </div>
