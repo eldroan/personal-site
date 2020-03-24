@@ -29,10 +29,24 @@
           <div class="row">
             <b-button
               type="is-info"
-              class="button-social last"
+              class="button-social center"
               icon-right="linkedin"
               @click="redirectToSite('https://www.linkedin.com/in/lemarillo/')"
             >LinkedIn @lemarillo</b-button>
+          </div>
+          <div class="row">
+            <!-- <b-button
+              type="is-info"
+              class="button-social last"
+              icon-right="linkedin"
+              @click="redirectToSite('https://www.linkedin.com/in/lemarillo/')"
+            >LinkedIn @lemarillo</b-button> -->
+            leandroamarillo@outlook.com
+              <b-icon
+                icon="email"
+                size="is-small"
+                type="is-light">
+            </b-icon>
           </div>
         </div>
       </div>
@@ -106,11 +120,17 @@ h2 {
 }
 
 .button-social {
-  margin-top: 1rem;
   width: 15em;
+}
+.center {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 .last {
   margin-bottom: 1rem;
+}
+.button-container {
+  margin-top: -1rem;
 }
 @keyframes radius-animation {
   from {
