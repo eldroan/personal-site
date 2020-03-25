@@ -1,4 +1,4 @@
-# personal-site
+# Leandro Amarillo
 
 ## Project setup
 ```

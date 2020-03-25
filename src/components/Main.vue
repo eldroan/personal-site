@@ -15,7 +15,7 @@
       </div>
       <div class="column column-right">
         <h1>Leandro Nicolás Amarillo</h1>
-        <h2>Full-Stack developer</h2>
+        <h2>Full-Stack Developer</h2>
         <br />
         <div class="rows button-container">
           <div class="row">
