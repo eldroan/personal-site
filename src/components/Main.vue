@@ -35,13 +35,8 @@
             >LinkedIn @lemarillo</b-button>
           </div>
           <div class="row">
-            <!-- <b-button
-              type="is-info"
-              class="button-social last"
-              icon-right="linkedin"
-              @click="redirectToSite('https://www.linkedin.com/in/lemarillo/')"
-            >LinkedIn @lemarillo</b-button> -->
-            leandroamarillo@outlook.com
+            <a href="mailto:leandroamarillo@outlook.com" target="_blank" rel="noopener">leandroamarillo@outlook.com </a>
+          
               <b-icon
                 icon="email"
                 size="is-small"
@@ -99,6 +94,12 @@ h1 {
 }
 h2 {
   font-size: large;
+}
+a{
+  color: #fafafa;
+}
+a:hover{
+  color: #71DB77;
 }
 .image-container .image {
   clip-path: circle(46% at 50% 50%);
